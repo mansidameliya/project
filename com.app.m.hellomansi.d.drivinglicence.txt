@@ -43,7 +43,7 @@
   "isGoogleFailShowFacebook":false,
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
-  "isIntro":false,
+  "isIntro":true,
   "priority":"facebook12",
   "showAd":false,
   "toBeClicked":1,
